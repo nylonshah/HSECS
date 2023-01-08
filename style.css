@@ -1,0 +1,29 @@
+
+.hero{
+    margin-top: 58px;
+}
+
+.hero img{
+    border-radius: 14px;
+}
+
+.btn-dark:hover{
+    color: #212529;
+    background-color: #FFFFFF;
+}
+
+.questions{
+    margin: 0 2rem;
+}
+
+.info{
+    margin: 90px 4vw 0 4vw;
+}
+
+.class{
+    margin-top: 2rem;
+}
+
+span{
+    font-weight: bold;
+}
