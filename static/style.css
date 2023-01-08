@@ -1,8 +1,3 @@
-
-.hero{
-    margin-top: 58px;
-}
-
 .hero img{
     border-radius: 14px;
 }
@@ -26,4 +21,9 @@
 
 span{
     font-weight: bold;
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: 0;
 }
